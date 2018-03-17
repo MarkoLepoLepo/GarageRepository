@@ -40,8 +40,12 @@ namespace Garage48CoreAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+            
+            app.UseCors(builder =>
+                builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin().AllowCredentials());
 
-            app.Run(async (context) => { await context.Response.WriteAsync("Hello World!"); });
+            app.UseMvcWithDefaultRoute();
+
         }
     }
 }

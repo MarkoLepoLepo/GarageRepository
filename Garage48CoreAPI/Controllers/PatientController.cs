@@ -29,7 +29,7 @@ namespace Garage48CoreAPI.Controllers
         
         [HttpGet]
         [Route("/api/person/{id}")]
-        public async Task<IActionResult> GetAllCountdowns(int id)
+        public async Task<IActionResult> GetDataById(int id)
         {
             var model = await _datumRepository.GetAsync(id);
             return new JsonResult(model);

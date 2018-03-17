@@ -2,48 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80b5687-0165-425f-b9e1-8929bcff013d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/.idea/contentModel.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/.idea/indexLayout.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/riderModule.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI.sln" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Controllers/PatientController.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Garage48CoreAPI.csproj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Migrations/20180317053243_Initial.Designer.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Migrations/20180317053243_Initial.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Migrations/20180317062335_Second.Designer.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Migrations/20180317062335_Second.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Migrations/PatientContextModelSnapshot.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Models/PatientContext.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Models/PatientInformation.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Models/PersonalDatum.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Models/Seed.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Program.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PatientInformationRepository.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPatientInformationRepository.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Startup.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/appsettings.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.deps.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.runtimeconfig.dev.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.runtimeconfig.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.AssemblyInfo.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.AssemblyInfoInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.csproj.CoreCompileInputs.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.csproj.FileListAbsolute.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.dll" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.pdb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Garage48CoreAPI.csproj.EntityFrameworkCore.targets" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Garage48CoreAPI.csproj.nuget.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Garage48CoreAPI.csproj.nuget.g.props" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Garage48CoreAPI.csproj.nuget.g.targets" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/project.assets.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Garage48CoreAPI/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/Controllers/PatientController.cs" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Controllers/PatientController.cs" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/Startup.cs" afterPath="$PROJECT_DIR$/Garage48CoreAPI/Startup.cs" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.dll" afterPath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.dll" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.pdb" afterPath="$PROJECT_DIR$/Garage48CoreAPI/bin/Debug/netcoreapp2.0/Garage48CoreAPI.pdb" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.dll" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.dll" />
+      <change beforePath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.pdb" afterPath="$PROJECT_DIR$/Garage48CoreAPI/obj/Debug/netcoreapp2.0/Garage48CoreAPI.pdb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,37 +24,17 @@
       <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="29" column="94" lean-forward="false" selection-start-line="29" selection-start-column="94" selection-end-line="29" selection-end-column="94" />
+            <state relative-caret-position="327">
+              <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
               <folding>
-                <marker date="1521264722558" expanded="true" signature="6:451" ph="..." />
-                <marker date="1521264722558" expanded="true" signature="478:1792" ph="{...}" />
-                <marker date="1521264722558" expanded="true" signature="505:1790" ph="{...}" />
-                <marker date="1521264722558" expanded="true" signature="564:627" ph="{...}" />
-                <marker date="1521264722558" expanded="true" signature="690:905" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-                <marker date="1521264722558" expanded="true" signature="972:1365" ph="{...}" />
-                <marker date="1521264722558" expanded="true" signature="1553:1784" ph="{...}" />
-                <marker date="1521264722558" expanded="true" signature="1600:1677" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20180317053243_Initial.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Migrations/20180317053243_Initial.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
-              <folding>
-                <marker date="1521264763942" expanded="false" signature="6:141" ph="..." />
-                <marker date="1521264763942" expanded="true" signature="179:1774" ph="{...}" />
-                <marker date="1521264763942" expanded="true" signature="226:1772" ph="{...}" />
-                <marker date="1521264763942" expanded="true" signature="302:1507" ph="{...}" />
-                <marker date="1521264763942" expanded="true" signature="454:794" ph="{...}" />
-                <marker date="1521264763942" expanded="true" signature="833:944" ph="{...}" />
-                <marker date="1521264763942" expanded="true" signature="1082:1352" ph="{...}" />
-                <marker date="1521264763942" expanded="true" signature="1391:1495" ph="{...}" />
-                <marker date="1521264763942" expanded="true" signature="1580:1766" ph="{...}" />
+                <marker date="1521274250409" expanded="true" signature="6:451" ph="..." />
+                <marker date="1521274250409" expanded="true" signature="478:1883" ph="{...}" />
+                <marker date="1521274250409" expanded="true" signature="505:1881" ph="{...}" />
+                <marker date="1521274250409" expanded="true" signature="564:627" ph="{...}" />
+                <marker date="1521274250409" expanded="true" signature="690:905" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1521274250409" expanded="true" signature="972:1365" ph="{...}" />
+                <marker date="1521274250409" expanded="true" signature="1553:1875" ph="{...}" />
+                <marker date="1521274250409" expanded="true" signature="1600:1677" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,17 +62,17 @@
       <file leaf-file-name="PersonalDatumRepository.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+            <state relative-caret-position="196">
+              <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
               <folding>
-                <marker date="1521265848869" expanded="true" signature="6:174" ph="..." />
-                <marker date="1521265848869" expanded="true" signature="227:1128" ph="{...}" />
-                <marker date="1521265848869" expanded="true" signature="297:1126" ph="{...}" />
-                <marker date="1521265848869" expanded="true" signature="416:468" ph="{...}" />
-                <marker date="1521265848869" expanded="true" signature="608:690" ph="{...}" />
-                <marker date="1521265848869" expanded="true" signature="739:872" ph="{...}" />
-                <marker date="1521265848869" expanded="true" signature="921:990" ph="{...}" />
-                <marker date="1521265848869" expanded="true" signature="1042:1120" ph="{...}" />
+                <marker date="1521276109902" expanded="true" signature="6:334" ph="..." />
+                <marker date="1521276109902" expanded="true" signature="387:1289" ph="{...}" />
+                <marker date="1521276109902" expanded="true" signature="457:1287" ph="{...}" />
+                <marker date="1521276109902" expanded="true" signature="576:628" ph="{...}" />
+                <marker date="1521276109902" expanded="true" signature="769:851" ph="{...}" />
+                <marker date="1521276109902" expanded="true" signature="900:1033" ph="{...}" />
+                <marker date="1521276109902" expanded="true" signature="1082:1151" ph="{...}" />
+                <marker date="1521276109902" expanded="true" signature="1203:1281" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,8 +81,8 @@
       <file leaf-file-name="Seed.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Models/Seed.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+            <state relative-caret-position="133">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding>
                 <marker date="1521266325564" expanded="true" signature="6:117" ph="..." />
                 <marker date="1521266325564" expanded="true" signature="151:2674" ph="{...}" />
@@ -163,8 +110,8 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+            <state relative-caret-position="228">
+              <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
               <folding>
                 <marker date="1521266680401" expanded="false" signature="6:370" ph="..." />
                 <marker date="1521266680401" expanded="true" signature="397:1496" ph="{...}" />
@@ -181,15 +128,28 @@
       <file leaf-file-name="PatientController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Controllers/PatientController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+            <state relative-caret-position="190">
+              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding>
-                <marker date="1521268598562" expanded="true" signature="6:149" ph="..." />
-                <marker date="1521268598562" expanded="true" signature="188:1198" ph="{...}" />
-                <marker date="1521268598562" expanded="true" signature="238:1196" ph="{...}" />
-                <marker date="1521268598562" expanded="true" signature="553:681" ph="{...}" />
-                <marker date="1521268598562" expanded="true" signature="809:938" ph="{...}" />
-                <marker date="1521268598562" expanded="true" signature="1067:1190" ph="{...}" />
+                <marker date="1521276131969" expanded="true" signature="6:149" ph="..." />
+                <marker date="1521276131969" expanded="true" signature="188:1193" ph="{...}" />
+                <marker date="1521276131969" expanded="true" signature="238:1191" ph="{...}" />
+                <marker date="1521276131969" expanded="true" signature="553:681" ph="{...}" />
+                <marker date="1521276131969" expanded="true" signature="809:938" ph="{...}" />
+                <marker date="1521276131969" expanded="true" signature="1062:1185" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonalDatum.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Models/PersonalDatum.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding>
+                <marker date="1521262721364" expanded="true" signature="56:186" ph="{...}" />
+                <marker date="1521262721364" expanded="true" signature="89:184" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -225,12 +185,12 @@
       <file leaf-file-name="IPersonalDatumRepository.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="228">
+              <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
               <folding>
-                <marker date="1521265219479" expanded="true" signature="6:93" ph="..." />
-                <marker date="1521265219479" expanded="true" signature="142:431" ph="{...}" />
-                <marker date="1521265219479" expanded="true" signature="190:429" ph="{...}" />
+                <marker date="1521276123379" expanded="true" signature="6:138" ph="..." />
+                <marker date="1521276123379" expanded="true" signature="187:476" ph="{...}" />
+                <marker date="1521276123379" expanded="true" signature="235:474" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -268,13 +228,13 @@
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatum.cs" />
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Migrations/DbContextFactory.cs" />
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Garage48CoreAPI.csproj" />
-        <option value="$PROJECT_DIR$/Garage48CoreAPI/Startup.cs" />
-        <option value="$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs" />
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPatientInformationRepository.cs" />
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PatientInformationRepository.cs" />
-        <option value="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs" />
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Models/Seed.cs" />
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Program.cs" />
+        <option value="$PROJECT_DIR$/Garage48CoreAPI/Startup.cs" />
+        <option value="$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs" />
+        <option value="$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs" />
         <option value="$PROJECT_DIR$/Garage48CoreAPI/Controllers/PatientController.cs" />
       </list>
     </option>
@@ -367,7 +327,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Garage48API/Garage48API.sln" />
+    <property name="last_opened_file_path" value="E:/Work/Countbuzz/Countbuzz.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -415,12 +375,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521261861365</updated>
-      <workItem from="1521261862611" duration="7298000" />
+      <workItem from="1521261862611" duration="13426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7298000" />
+    <option name="totallyTimeSpent" value="13426000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,18 +397,18 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905548" sideWeight="0.5021482" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5107411" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.4935553" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.48925886" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.49570355" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.4935553" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.7980666" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24543501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19495167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.82867885" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905548" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905548" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -466,21 +426,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Models/PersonalDatum.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding>
-            <marker date="1521262721364" expanded="true" signature="56:186" ph="{...}" />
-            <marker date="1521262721364" expanded="true" signature="89:184" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Models/PatientContext.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -518,23 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="94" lean-forward="false" selection-start-line="29" selection-start-column="94" selection-end-line="29" selection-end-column="94" />
-          <folding>
-            <marker date="1521264722558" expanded="true" signature="6:451" ph="..." />
-            <marker date="1521264722558" expanded="true" signature="478:1792" ph="{...}" />
-            <marker date="1521264722558" expanded="true" signature="505:1790" ph="{...}" />
-            <marker date="1521264722558" expanded="true" signature="564:627" ph="{...}" />
-            <marker date="1521264722558" expanded="true" signature="690:905" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1521264722558" expanded="true" signature="972:1365" ph="{...}" />
-            <marker date="1521264722558" expanded="true" signature="1553:1784" ph="{...}" />
-            <marker date="1521264722558" expanded="true" signature="1600:1677" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Migrations/20180317053243_Initial.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -549,18 +483,6 @@
             <marker date="1521264763942" expanded="true" signature="1082:1352" ph="{...}" />
             <marker date="1521264763942" expanded="true" signature="1391:1495" ph="{...}" />
             <marker date="1521264763942" expanded="true" signature="1580:1766" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <marker date="1521265219479" expanded="true" signature="6:93" ph="..." />
-            <marker date="1521265219479" expanded="true" signature="142:431" ph="{...}" />
-            <marker date="1521265219479" expanded="true" signature="190:429" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -594,23 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
-          <folding>
-            <marker date="1521265848869" expanded="true" signature="6:174" ph="..." />
-            <marker date="1521265848869" expanded="true" signature="227:1128" ph="{...}" />
-            <marker date="1521265848869" expanded="true" signature="297:1126" ph="{...}" />
-            <marker date="1521265848869" expanded="true" signature="416:468" ph="{...}" />
-            <marker date="1521265848869" expanded="true" signature="608:690" ph="{...}" />
-            <marker date="1521265848869" expanded="true" signature="739:872" ph="{...}" />
-            <marker date="1521265848869" expanded="true" signature="921:990" ph="{...}" />
-            <marker date="1521265848869" expanded="true" signature="1042:1120" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Models/PatientInformation.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -624,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Models/Seed.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+        <state relative-caret-position="133">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
             <marker date="1521266325564" expanded="true" signature="6:117" ph="..." />
             <marker date="1521266325564" expanded="true" signature="151:2674" ph="{...}" />
@@ -651,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        <state relative-caret-position="228">
+          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
           <folding>
             <marker date="1521266680401" expanded="false" signature="6:370" ph="..." />
             <marker date="1521266680401" expanded="true" signature="397:1496" ph="{...}" />
@@ -665,17 +570,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Program Files/dotnet/sdk/2.0.0/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="4055" column="35" lean-forward="true" selection-start-line="4055" selection-start-column="35" selection-end-line="4055" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          <folding>
+            <marker date="1521274250409" expanded="true" signature="6:451" ph="..." />
+            <marker date="1521274250409" expanded="true" signature="478:1883" ph="{...}" />
+            <marker date="1521274250409" expanded="true" signature="505:1881" ph="{...}" />
+            <marker date="1521274250409" expanded="true" signature="564:627" ph="{...}" />
+            <marker date="1521274250409" expanded="true" signature="690:905" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1521274250409" expanded="true" signature="972:1365" ph="{...}" />
+            <marker date="1521274250409" expanded="true" signature="1553:1875" ph="{...}" />
+            <marker date="1521274250409" expanded="true" signature="1600:1677" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Models/PersonalDatum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <marker date="1521262721364" expanded="true" signature="56:186" ph="{...}" />
+            <marker date="1521262721364" expanded="true" signature="89:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Repository/Implementation/PersonalDatumRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+          <folding>
+            <marker date="1521276109902" expanded="true" signature="6:334" ph="..." />
+            <marker date="1521276109902" expanded="true" signature="387:1289" ph="{...}" />
+            <marker date="1521276109902" expanded="true" signature="457:1287" ph="{...}" />
+            <marker date="1521276109902" expanded="true" signature="576:628" ph="{...}" />
+            <marker date="1521276109902" expanded="true" signature="769:851" ph="{...}" />
+            <marker date="1521276109902" expanded="true" signature="900:1033" ph="{...}" />
+            <marker date="1521276109902" expanded="true" signature="1082:1151" ph="{...}" />
+            <marker date="1521276109902" expanded="true" signature="1203:1281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Repository/Interface/IPersonalDatumRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <marker date="1521276123379" expanded="true" signature="6:138" ph="..." />
+            <marker date="1521276123379" expanded="true" signature="187:476" ph="{...}" />
+            <marker date="1521276123379" expanded="true" signature="235:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Garage48CoreAPI/Controllers/PatientController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        <state relative-caret-position="190">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
-            <marker date="1521268598562" expanded="true" signature="6:149" ph="..." />
-            <marker date="1521268598562" expanded="true" signature="188:1198" ph="{...}" />
-            <marker date="1521268598562" expanded="true" signature="238:1196" ph="{...}" />
-            <marker date="1521268598562" expanded="true" signature="553:681" ph="{...}" />
-            <marker date="1521268598562" expanded="true" signature="809:938" ph="{...}" />
-            <marker date="1521268598562" expanded="true" signature="1067:1190" ph="{...}" />
+            <marker date="1521276131969" expanded="true" signature="6:149" ph="..." />
+            <marker date="1521276131969" expanded="true" signature="188:1193" ph="{...}" />
+            <marker date="1521276131969" expanded="true" signature="238:1191" ph="{...}" />
+            <marker date="1521276131969" expanded="true" signature="553:681" ph="{...}" />
+            <marker date="1521276131969" expanded="true" signature="809:938" ph="{...}" />
+            <marker date="1521276131969" expanded="true" signature="1062:1185" ph="{...}" />
           </folding>
         </state>
       </provider>
