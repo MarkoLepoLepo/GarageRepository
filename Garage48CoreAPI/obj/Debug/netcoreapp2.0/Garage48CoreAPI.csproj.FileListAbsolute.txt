@@ -8,3 +8,14 @@ D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48Core
 D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.AssemblyInfo.cs
 D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.dll
 D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.pdb
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.deps.json
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.runtimeconfig.json
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.runtimeconfig.dev.json
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.dll
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.pdb
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.AssemblyInfoInputs.cache
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.AssemblyInfo.cs
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.dll
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.pdb
+C:\Users\caroline\source\repos\garage48\GarageRepository\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.csprojResolveAssemblyReference.cache
