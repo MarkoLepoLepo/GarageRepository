@@ -1,0 +1,10 @@
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.deps.json
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.runtimeconfig.json
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.runtimeconfig.dev.json
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.dll
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\bin\Debug\netcoreapp2.0\Garage48CoreAPI.pdb
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.AssemblyInfoInputs.cache
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.AssemblyInfo.cs
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.dll
+D:\Projects\Garage48CoreAPI\Garage48CoreAPI\obj\Debug\netcoreapp2.0\Garage48CoreAPI.pdb
